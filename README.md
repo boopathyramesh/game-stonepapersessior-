@@ -1,0 +1,2 @@
+# game-stonepapersessior-
+game(sps)
